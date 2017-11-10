@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureMarkingTools", "PictureMarkingTools\PictureMarkingTools.csproj", "{77BE4578-1D39-429B-9FD7-256184B553A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveMarkWpfApp", "GiveMarkWpfApp\GiveMarkWpfApp.csproj", "{C8906BA2-4991-4161-801F-9AD9A8CF9B4F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GiveMarkSetup", "GiveMarkSetup\GiveMarkSetup.vdproj", "{ADA11026-5FD8-4F14-BB83-E7FF33FA0908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BE4578-1D39-429B-9FD7-256184B553A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BE4578-1D39-429B-9FD7-256184B553A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BE4578-1D39-429B-9FD7-256184B553A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BE4578-1D39-429B-9FD7-256184B553A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8906BA2-4991-4161-801F-9AD9A8CF9B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8906BA2-4991-4161-801F-9AD9A8CF9B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8906BA2-4991-4161-801F-9AD9A8CF9B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8906BA2-4991-4161-801F-9AD9A8CF9B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA11026-5FD8-4F14-BB83-E7FF33FA0908}.Debug|Any CPU.ActiveCfg = Debug
+		{ADA11026-5FD8-4F14-BB83-E7FF33FA0908}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89B06FE-D1AA-47CB-ACAF-C5DFA986F5A8}
+	EndGlobalSection
+EndGlobal
